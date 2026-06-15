@@ -1,5 +1,9 @@
-# environment variables
+# credentials
 .env
+*.json
+
+# datasets
+data/
 
 # python
 __pycache__/
