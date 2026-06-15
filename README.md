@@ -1,4 +1,4 @@
-What Drives User Conversion in Digital Platforms?
+## What Drives User Conversion in Digital Platforms?
 
 ## Project Overview
 
@@ -14,9 +14,9 @@ Using Google Analytics 4 event data enriched with weather information and countr
 ## Dataset
 
 Sources
-Google Analytics 4 (GA4) event data
-Weather API data
-Country-level economic and digital connectivity indicators
+* Google Analytics 4 (GA4) event data
+* Weather API data
+* Country-level economic and digital connectivity indicators
 
 ## Limitations
 
@@ -35,15 +35,16 @@ Country-level economic and digital connectivity indicators
 
 Countries were grouped using clustering techniques based on:
 
-Economic indicators
-Digital connectivity
-Market maturity
-Statistical Testing
+* Economic indicators
+* Digital connectivity
+* Market maturity
+* Statistical Testing
 
 Hypothesis testing was used to validate whether observed differences were statistically significant.
 
 ## Key Findings
 
+```text
 1. Conversion Plateaus with Engagement
 Early engagement strongly increases conversion probability.
 Additional engagement provides diminishing returns.
@@ -68,6 +69,7 @@ User familiarity moderates the impact of weather.
 Developed markets achieve higher conversion rates and greater efficiency.
 Higher conversion is not explained by engagement alone.
 Environmental factors affect market segments differently.
+```
 
 ## Tools & Technologies
 
@@ -91,10 +93,6 @@ Environmental factors affect market segments differently.
 * Clustering
 * Business Intelligence
 * Storytelling with Data
-
-## Project Structure
-
-## Project Structure
 
 ## Project Structure
 
@@ -123,6 +121,7 @@ External factors such as weather conditions, user type, and market maturity sign
 ## Author
 
 Gabriela Kilpp
-
+```text
 LinkedIn: https://www.linkedin.com/in/gabriela-kilpp
 GitHub: https://github.com/gkilpp
+```
